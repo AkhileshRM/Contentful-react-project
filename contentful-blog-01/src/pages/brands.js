@@ -6,7 +6,7 @@ export default function brands() {
   return (
     <div>
         <Header/>
-      Brands
+      Brands Page
         <Footer/>
     </div>
   )

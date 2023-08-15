@@ -6,7 +6,7 @@ export default function Insights() {
   return (
     <div>
     <Header/>
-      Insights
+      Insights Pages
       <Footer/>
     </div>
   )
